@@ -19,8 +19,8 @@ This project demonstrates a complete PayPal Subscription workflow using the PayP
 ### 1 Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-project-directory>
+git clone https://github.com/dadeyyy/paypal-subscription.git
+cd paypal-subscription
 npm install
 
 
